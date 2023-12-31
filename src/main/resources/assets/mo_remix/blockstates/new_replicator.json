@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mo_remix:block/new_replicator","y": 0 },
+    "facing=south": { "model": "mo_remix:block/new_replicator","y": 180 },
+    "facing=west":  { "model": "mo_remix:block/new_replicator","y": 270 },
+    "facing=east":  { "model": "mo_remix:block/new_replicator","y": 90 }
+  }
+}

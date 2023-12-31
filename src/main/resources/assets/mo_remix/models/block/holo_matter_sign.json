@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "matteroverdrive:blocks/holo_monitor",
+		"front": "matteroverdrive:blocks/holo_monitor",
+		"side": "matteroverdrive:blocks/base"
+	},
+	"elements": [
+		{
+			"name": "Main",
+			"from": [0, 0, 14],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"east": {"uv": [0, 0, 5, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 5, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 5], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 5], "texture": "#side", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "holo_sign",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

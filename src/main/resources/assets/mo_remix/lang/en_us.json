@@ -1,0 +1,21 @@
+{
+  "creativemodetab.mo_remix_tab": "Matter Overdrive Remix",
+
+  "item.mo_remix.datapad": "Datapad",
+
+  "block.mo_remix.matter_analyzer": "Matter Analyzer",
+  "block.mo_remix.pattern_storage": "Pattern Storage",
+  "block.mo_remix.microwave": "Microwave",
+  "block.mo_remix.new_replicator": "Matter Replicator",
+  "block.mo_remix.matter_decomposer:": "Matter Decomposer",
+
+  "block.mo_remix.tritanium_plate_stripes": "Tritanium Plate Stripes",
+  "block.mo_remix.tritanium_plate": "Tritanium Plate",
+  "block.mo_remix.vent_bright": "Vent Bright",
+  "block.mo_remix.floor_tiles": "Floor Tiles",
+  "block.mo_remix.carbon_fiber_plate": "Carbon Fiber Plate",
+  "block.mo_remix.clean": "Clean",
+  "block.mo_remix.coils": "Coils",
+
+  "block.mo_remix.tritanium_ore": "Tritanium Ore"
+}

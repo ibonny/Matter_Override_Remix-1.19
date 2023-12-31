@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "mo_remix:block/tritanium_plate_yellow_stripes",
+    "end": "mo_remix:block/tritanium_plate"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, 159, 0],
+      "scale": [0.4, 0.4, 0.4]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 159, 0],
+      "scale": [0.4, 0.4, 0.4]
+    },
+    "gui": {
+      "rotation": [30, 144, 0],
+      "scale": [0.625, 0.625, 0.625]
+    }
+  }
+}

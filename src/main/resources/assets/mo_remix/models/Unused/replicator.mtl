@@ -1,0 +1,11 @@
+newmtl replicator_main
+map_Kd mo_remix:block/replicator
+
+newmtl base
+map_Kd mo_remix:block/base
+
+newmtl network_port
+map_Kd mo_remix:block/network_port
+
+newmtl vents
+map_Kd mo_remix:block/vent

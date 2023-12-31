@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,running=false": { "model": "mo_remix:block/matter_decomposer","y": 0 },
+    "facing=south,running=false": { "model": "mo_remix:block/matter_decomposer","y": 180 },
+    "facing=west,running=false":  { "model": "mo_remix:block/matter_decomposer","y": 270 },
+    "facing=east,running=false":  { "model": "mo_remix:block/matter_decomposer","y": 90 },
+    "facing=north,running=true":  { "model": "mo_remix:block/matter_decomposer_on","y": 0 },
+    "facing=south,running=true":  { "model": "mo_remix:block/matter_decomposer_on","y": 180 },
+    "facing=west,running=true":   { "model": "mo_remix:block/matter_decomposer_on","y": 270 },
+    "facing=east,running=true":   { "model": "mo_remix:block/matter_decomposer_on","y": 90 }
+  }
+}

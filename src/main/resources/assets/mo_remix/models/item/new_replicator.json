@@ -1,0 +1,9 @@
+{
+  "parent": "mo_remix:block/new_replicator",
+  "display": {
+    "firstperson_righthand": {
+      "scale": [ 0.5, 0.5, 0.5 ],
+      "rotation": [ 0, 180, 0 ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "mo_remix:pattern_storage.obj",
+        "custom": {
+            "flip-v": true
+        },
+        "textures": {}
+    },
+    "variants": {
+        "facing=north": { "model": "mo_remix:block/pattern_storage","y": 0 },
+        "facing=south": { "model": "mo_remix:block/pattern_storage","y": 180 },
+        "facing=west":  { "model": "mo_remix:block/pattern_storage","y": 270 },
+        "facing=east":  { "model": "mo_remix:block/pattern_storage","y": 90 }
+    },
+    "inventory": {
+        "model": "mo_remix:pattern_storage.obj",
+        "transform": "forge:default-block"
+    }
+}
